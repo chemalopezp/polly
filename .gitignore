@@ -1,5 +1,7 @@
 /awscreds.json
 /node_modules
+/node_modules/*
+.gitignore
 
 # Logs
 logs
